@@ -1,4 +1,4 @@
-# How It Works
+# How It Works - Working of this Project
 
 This project classifies images of **bird species** using a deep learning model built with **TensorFlow** and **Keras**, and makes predictions through a **Streamlit web app**.
 
