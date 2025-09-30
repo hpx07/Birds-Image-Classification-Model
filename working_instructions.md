@@ -33,8 +33,7 @@ This project classifies images of **bird species** using a deep learning model b
 * Try this image URL:
   `https://github.com/KushxKalsi/Birds-Image-Classification-Model/blob/main/Images/Crow.jpg?raw=true`
 
-* Visit the app:
-  [Birds Image Classification App](https://birds-image-classification-model-3gtmbjda9chcmmhphcb3nk.streamlit.app/)
+
 
 * See the prediction:
   The app will return the **bird species name** predicted by the model.
